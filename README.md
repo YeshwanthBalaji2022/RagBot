@@ -17,7 +17,7 @@ The RAG Chatbot is designed to help users extract information from a collection 
 
 ## 🎥 Demo Video
 
-[![RagBot Demo](https://img.youtu.be/vi/WAhZq08tNPs/maxresdefault.jpg)](https://youtu.be/WAhZq08tNPs)
+[![RagBot Demo](images/cohere.png)](https://youtu.be/WAhZq08tNPs)
 
 
 
