@@ -13,6 +13,14 @@ The RAG Chatbot is designed to help users extract information from a collection 
 - **Question Answering:** Ask questions and receive answers based on the content of the uploaded documents.
 - **Cohere & Pinecone Integration:** Utilizes Cohere for language model capabilities and Pinecone for indexing and search.
 
+
+
+## 🎥 Demo Video
+
+[![RagBot Demo](https://img.youtu.be/vi/WAhZq08tNPs/maxresdefault.jpg)](https://youtu.be/WAhZq08tNPs)
+
+
+
 ## How to Use
 
 ### Prerequisites
