@@ -1,0 +1,12 @@
+langchain_core 
+langchain_anthropic
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas
+numpy
+python-dotenv
+ipykernel

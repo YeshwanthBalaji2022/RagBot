@@ -1,0 +1,4 @@
+llmvenv/
+
+chroma_db/
+.streamlit/
