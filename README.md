@@ -28,7 +28,7 @@ Ensure you have the following before starting:
 
     ```bash
     git clone https://github.com/YeshwanthBalaji2022/RagBot.git
-    cd rag-chatbot
+    cd RagBot
     ```
 
 2. **Install the required dependencies:**
